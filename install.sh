@@ -118,21 +118,10 @@ masternode=1
 externalip=$NODEIP:$COIN_PORT
 masternodeprivkey=$COINKEY
 #Nodes
-addnode=211.26.199.214
-addnode=149.28.39.43
-addnode=149.28.56.15
-addnode=185.92.223.224
-addnode=185.92.223.224
-addnode=68.183.115.210
-addnode=144.202.4.50
-addnode=159.65.111.123
-addnode=107.172.2.189
-addnode=66.70.206.98
-addnode=95.216.162.89
-addnode=68.183.32.177
-addnode=108.61.75.21
-addnode=82.146.58.102
-addnode=149.248.53.229
+addnode=69.90.132.156:53388
+addnode=76.74.170.27:53388
+addnode=113.212.123.224:53388
+addnode=207.148.116.116:53388
 EOF
 }
 
